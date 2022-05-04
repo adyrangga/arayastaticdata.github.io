@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "message": "Story of Antasena Takon Bapa",
+  "data": {
+    "title": "Antasena Takon Bapa",
+    "preface": "Kisah ini menceritakan kemunculan Raden Antasena, yaitu putra Arya Wrekodara yang lahir dari Dewi Urangayu, yang saya gabungkan pula dengan kisah perkawinan Raden Antareja dengan Dewi Ganggi, putri Prabu Ganggapranawa.\nKisah ini saya olah dari sumber buku Ensiklopedia Wayang Purwa karya Rio Sudibyoprono, dengan sedikit pengembangan seperlunya.",
+    "storylines": [
+      {
+        "order": 0,
+        "title": "BATARA BARUNA DISERANG MUSUH BERNAMA PRABU MINALODRA",
+        "story": "Di Kahyangan Jonggringsalaka, Batara Guru sedang memimpin pertemuan para dewa yang dihadiri Batara Narada, Batara Sambu, Batara Brahma, Batara Bayu, Batara Indra, dan Batara Panyarikan. Dalam pertemuan tersebut mereka membicarakan adanya gara-gara di alam manusia, yaitu putra Arya Wrekodara yang lahir dari Dewi Urangayu, sudah berusia dua puluh tahun tetapi masih berwujud bayi. Batara Guru meramalkan bayi tersebut kelak akan menjadi kesatria pembela kebenaran yang memiliki kesaktian luar biasa, serta menjadi lambang kejujuran."
+      }
+    ]
+  }
+}
