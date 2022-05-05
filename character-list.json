@@ -7,11 +7,23 @@
       "contents": [
         {
           "id": "abimanyu",
-          "title": "Abimanyu"
+          "title": "Abimanyu",
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/id/f/f8/Angkawijaya.jpg",
+            "width": 200,
+            "height": 100,
+            "alt": "Abimanyu"
+          }
         },
         {
           "id": "arjuna",
-          "title": "Arjuna"
+          "title": "Arjuna",
+          "image": {
+            "url": "",
+            "width": 200,
+            "height": 100,
+            "alt": "Arjuna"
+          }
         }
       ]
     }
