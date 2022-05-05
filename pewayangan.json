@@ -1,19 +1,23 @@
 {
   "code": 200,
-  "message": "Story of Antasena Takon Bapa",
-  "data": {
-    "title": "Antasena Takon Bapa",
-    "preface": "Kisah ini menceritakan kemunculan Raden Antasena, yaitu putra Arya Wrekodara yang lahir dari Dewi Urangayu, yang saya gabungkan pula dengan kisah perkawinan Raden Antareja dengan Dewi Ganggi, putri Prabu Ganggapranawa.\nKisah ini saya olah dari sumber buku Ensiklopedia Wayang Purwa karya Rio Sudibyoprono, dengan sedikit pengembangan seperlunya.",
-    "storylines": [
-      {
-        "order": 0,
-        "title": "BATARA BARUNA DISERANG MUSUH BERNAMA PRABU MINALODRA",
-        "contents": [
-          "Di Kahyangan Jonggringsalaka, Batara Guru sedang memimpin pertemuan para dewa yang dihadiri Batara Narada, Batara Sambu, Batara Brahma, Batara Bayu, Batara Indra, dan Batara Panyarikan. Dalam pertemuan tersebut mereka membicarakan adanya gara-gara di alam manusia, yaitu putra Arya Wrekodara yang lahir dari Dewi Urangayu, sudah berusia dua puluh tahun tetapi masih berwujud bayi. Batara Guru meramalkan bayi tersebut kelak akan menjadi kesatria pembela kebenaran yang memiliki kesaktian luar biasa, serta menjadi lambang kejujuran.",
-          "Tidak lama kemudian datanglah Batara Baruna yang melaporkan adanya musuh menyerang Kahyangan Dasarsamodra. Batara Baruna adalah dewa yang bertugas memimpin dan mengatur para binatang di dalam lautan. Tiba-tiba ia diserang seorang raja raksasa bersisik ikan bernama Prabu Minalodra yang bermaksud merebut kedudukannya tersebut. Tentu saja Batara Baruna melawan karena memimpin lautan adalah amanah yang diberikan Batara Guru kepadanya. Tak disangka, Prabu Minalodra ternyata begitu perkasa. Raja raksasa itu mampu mengalahkan dan mengusir Batara Baruna dari Kahyangan Dasarsamodra.",
-          "Batara Baruna pun datang ke Kahyangan Jonggringsalaka untuk memohon bantuan Batara Guru agar menghukum Prabu Minalodra beserta pasukannya. Batara Guru menerima laporan tersebut dan segera mengirim Batara Sambu, Batara Brahma, Batara Bayu, dan Batara Indra untuk menumpas Prabu Minalodra. Batara Sambu dan adik-adiknya mematuhi dan segera mohon pamit menjalankan tugas."
-        ]
-      }
-    ]
-  }
+  "message": "Stories of Pewayangan",
+  "data": [
+    {
+      "title": "Wisanggeni Lahir",
+      "note": {
+        "content": "Kisah ini menceritakan kelahiran Bambang Wisanggeni, yaitu putra Raden Arjuna yang lahir dari Batari Dresanala, putri Batara Brahma. Bambang Wisanggeni ini adalah putra Pandawa yang sangat istimewa, tidak terkalahkan karena adakalanya menjadi tempat Sanghyang Padawenang bersemayam. \nKisah ini saya olah dan saya kembangkan dari dongeng bapak yang saya padukan dengan pagelaran wayang kulit dengan dalang Ki Anom Suroto, dengan sedikit pengembangan seperlunya.",
+        "placeAndDate": "Kediri, 13 Desember 2017",
+        "by": "Heri Purwanto"
+      },
+      "storylines": [
+        {
+          "order": 0,
+          "title": "BATARA BRAHMA TELAH MENGAMBIL RADEN ARJUNA SEBAGAI MENANTU",
+          "contents": [
+            "Di Kahyangan Jonggringsalaka, Batara Guru sedang memimpin pertemuan para dewa yang dihadiri Batara Narada, Batara Sambu, Batara Brahma, Batara Bayu, Batara Indra, dan Batara Panyarikan. Dalam pertemuan itu Batara Guru bertanya kepada Batara Brahma mengapa cukup lama tidak datang menghadap. Batara Brahma menjelaskan bahwa ia baru saja menikahkan putrinya yang bernama Batari Dresanala dengan Pandawa nomor tiga, yaitu Raden Arjuna. \nBatara Guru bertanya bagaimana ceritanya Raden Arjuna bisa menikah dengan bidadari. Jasa apa yang telah ia perbuat sehingga bisa menjadi suami Batari Dresanala. Batara Brahma pun bercerita, awalnya ia mempunyai murid bernama Prabu Setaketu dari Kerajaan Selapura. Prabu Setaketu ini dari luar tampak sangat berbakti dan mematuhi segala petunjuk yang diberikan Batara Brahma, namun di dalam hati menyimpan maksud lain. Hingga pada suatu hari Prabu Setaketu menunjukkan watak aslinya. Ia berkhianat menjebak Batara Brahma masuk ke dalam perangkapnya. Rupanya Prabu Setaketu adalah pemuja Batara Kala yang ingin menyenangkan dewa sesembahannya itu. Batara Brahma sendiri berhasil meloloskan diri namun kesaktiannya banyak berkurang karena perangkap Prabu Setaketu. Dalam pelariannya itu, Batara Brahma bertemu Raden Arjuna yang sedang berkelana. Ia pun meminta bantuan Pandawa nomor tiga tersebut untuk menghadapi Prabu Setaketu."
+          ]
+        }
+      ]
+    }
+  ]
 }
