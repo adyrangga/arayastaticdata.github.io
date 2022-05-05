@@ -1,0 +1,35 @@
+{
+  "code": 200,
+  "message": "The Story of the Birth of the Wisanggeni",
+  "data": {
+      "title": "Wisanggeni Lahir",
+      "image": {
+        "url": "https://2.bp.blogspot.com/-XpcMypvrfhk/WjD_zbRMvAI/AAAAAAAAAVM/_EVS2Z4eDTYAzZPYuDLFC_bSHhsbJhLPACLcBGAs/s1600/WISANGGENI%2Bsolo%2BA%2B05.jpg",
+        "width": 400,
+        "height": 300,
+        "alt": "Wisanggeni"
+      },
+      "note": {
+        "content": "Kisah ini menceritakan kelahiran Bambang Wisanggeni, yaitu putra Raden Arjuna yang lahir dari Batari Dresanala, putri Batara Brahma. Bambang Wisanggeni ini adalah putra Pandawa yang sangat istimewa, tidak terkalahkan karena adakalanya menjadi tempat Sanghyang Padawenang bersemayam. \nKisah ini saya olah dan saya kembangkan dari dongeng bapak yang saya padukan dengan pagelaran wayang kulit dengan dalang Ki Anom Suroto, dengan sedikit pengembangan seperlunya.",
+        "placeAndDate": "Kediri, 13 Desember 2017",
+        "by": "Heri Purwanto"
+      },
+      "storylines": [
+        {
+          "order": 0,
+          "title": "BATARA BRAHMA TELAH MENGAMBIL RADEN ARJUNA SEBAGAI MENANTU",
+          "image": {
+            "url": "https://4.bp.blogspot.com/-DBqP3Z6g6nc/WjD_xxmhcEI/AAAAAAAAAUs/1AI0yyTSOh0eV6fxohju3ElUSbaauwKlACLcBGAs/s1600/GURU%2Bsolo%2BA%2B01.jpg",
+            "width": 120,
+            "height": 330,
+            "alt": "Batara Guru"
+          },
+          "contents": [
+            "Di Kahyangan Jonggringsalaka, Batara Guru sedang memimpin pertemuan para dewa yang dihadiri Batara Narada, Batara Sambu, Batara Brahma, Batara Bayu, Batara Indra, dan Batara Panyarikan. Dalam pertemuan itu Batara Guru bertanya kepada Batara Brahma mengapa cukup lama tidak datang menghadap. Batara Brahma menjelaskan bahwa ia baru saja menikahkan putrinya yang bernama Batari Dresanala dengan Pandawa nomor tiga, yaitu Raden Arjuna.",
+            "Batara Guru bertanya bagaimana ceritanya Raden Arjuna bisa menikah dengan bidadari. Jasa apa yang telah ia perbuat sehingga bisa menjadi suami Batari Dresanala. Batara Brahma pun bercerita, awalnya ia mempunyai murid bernama Prabu Setaketu dari Kerajaan Selapura. Prabu Setaketu ini dari luar tampak sangat berbakti dan mematuhi segala petunjuk yang diberikan Batara Brahma, namun di dalam hati menyimpan maksud lain. Hingga pada suatu hari Prabu Setaketu menunjukkan watak aslinya. Ia berkhianat menjebak Batara Brahma masuk ke dalam perangkapnya. Rupanya Prabu Setaketu adalah pemuja Batara Kala yang ingin menyenangkan dewa sesembahannya itu. Batara Brahma sendiri berhasil meloloskan diri namun kesaktiannya banyak berkurang karena perangkap Prabu Setaketu. Dalam pelariannya itu, Batara Brahma bertemu Raden Arjuna yang sedang berkelana. Ia pun meminta bantuan Pandawa nomor tiga tersebut untuk menghadapi Prabu Setaketu.",
+            "Raden Arjuna menyanggupi. Ia lalu menghadang Prabu Setaketu yang datang mengejar Batara Brahma. Mereka berdua lalu bertarung sengit. Setelah lama bertanding, Raden Arjuna berhasil menewaskan Prabu Setaketu. Batara Brahma sangat berterima kasih. Sebagai ungkapan syukur, ia pun menikahkan Raden Arjuna dengan putrinya yang bernama Batari Dresanala. Demikianlah kisahnya mengapa Batara Brahma lama tidak menghadap ke Kahyangan Jonggringsalaka. Batara Guru memaklumi dan ia pun merestui perkawinan Raden Arjuna dengan Batari Dresanala, semoga kelak mendapat keturunan manusia utama yang memiliki kesaktian istimewa."
+          ]
+        }
+      ]
+    }
+}
