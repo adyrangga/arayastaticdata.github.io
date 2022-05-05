@@ -1,0 +1,19 @@
+{
+  "code": 200,
+  "message": "Character List of Pewayangan",
+  "data": [
+    {
+      "group": "Mahabharata Characters",
+      "contents": [
+        {
+          "id": "abimanyu",
+          "title": "Abimanyu"
+        },
+        {
+          "id": "arjuna",
+          "title": "Arjuna"
+        }
+      ]
+    }
+  ]
+}
