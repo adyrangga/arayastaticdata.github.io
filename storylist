@@ -1,0 +1,19 @@
+{
+  "code": 200,
+  "message": "Story List of Pewayangan",
+  "data": [
+    {
+      "group": "The story of the Pandavas and the Sons",
+      "contents": [
+        {
+          "id": "Abimanyu Rabi",
+          "title": "Abimanyu Rabi"
+        },
+        {
+          "id": "wisanggeni-lahir",
+          "title": "Wisanggeni Lahir"
+        }
+      ]
+    }
+  ]
+}
