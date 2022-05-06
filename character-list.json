@@ -19,10 +19,35 @@
           "id": "arjuna",
           "title": "Arjuna",
           "image": {
-            "url": "https://upload.wikimedia.org/wikipedia/id/f/f8/Angkawijaya.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Arjun.JPG",
             "width": 120.0,
             "height": 162.0,
             "alt": "Arjuna"
+          }
+        }
+      ]
+    },
+    {
+      "group": "Ramayana Characters",
+      "contents": [
+        {
+          "id": "anggada",
+          "title": "Anggada",
+          "image": {
+            "url": "https://1.bp.blogspot.com/--8mlMKmCU6E/VUN2wTZoNrI/AAAAAAAAAZ0/5pW7vPmhpvM/s1600/ANGGADA%2Bsolo%2BA%2B02.jpg",
+            "width": 120.0,
+            "height": 162.0,
+            "alt": "Anggada"
+          }
+        },
+        {
+          "id": "anila",
+          "title": "Anila",
+          "image": {
+            "url": "https://2.bp.blogspot.com/-QY6_ZCysXIs/VUN80lalfMI/AAAAAAAAAaA/UXSEl0eKLHM/s1600/ANILA%2Bsolo%2BB%2B01.jpg",
+            "width": 120.0,
+            "height": 162.0,
+            "alt": "Anila"
           }
         }
       ]
