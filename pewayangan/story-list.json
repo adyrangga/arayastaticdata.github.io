@@ -7,11 +7,18 @@
       "contents": [
         {
           "id": "Abimanyu Rabi",
-          "title": "Abimanyu Rabi"
+          "title": "Abimanyu Rabi",
+          "image": null
         },
         {
           "id": "wisanggeni-lahir",
-          "title": "Wisanggeni Lahir"
+          "title": "Wisanggeni Lahir",
+          "image": {
+            "url": "https://2.bp.blogspot.com/-XpcMypvrfhk/WjD_zbRMvAI/AAAAAAAAAVM/_EVS2Z4eDTYAzZPYuDLFC_bSHhsbJhLPACLcBGAs/s1600/WISANGGENI%2Bsolo%2BA%2B05.jpg",
+            "width": 400,
+            "height": 300,
+            "alt": "Wisanggeni"
+          }
         }
       ]
     }
